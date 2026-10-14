@@ -10,7 +10,6 @@ Offline verzia
 99 kartičiek s opakovaním podľa toho, čo si vieš vybaviť.
 66 tréningových otázok s vysvetlením správnych odpovedí.
 Všetkých 348 pôvodných snímok a strán, ich texty a dostupné poznámky.
-Všetkých 7 originálnych súborov na stiahnutie.
 Pomôcky pre maticu rizík, ALE a ROSI.
 Vlastné poznámky, uložený postup a export/import zálohy.
 
@@ -27,4 +26,4 @@ Online a offline verzia majú oddelené úložisko; export/import ich prenesie.
 
 Obsah vychádza z dodaných prednášok z rokov 2025 a 2026. Právne údaje,
 termíny a štatistiky sú označené podľa materiálov. Otázky sú tréningové,
-nie potvrdené otázky zo skúšky. Pôvodné súbory zostávajú nezmenené.
+nie potvrdené otázky zo skúšky. Pôvodné PPTX/PDF súbory nie sú súčasťou publikovanej stránky.

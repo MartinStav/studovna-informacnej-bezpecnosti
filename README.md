@@ -10,7 +10,6 @@ Jednoduchá stránka v slovenčine na učenie manažmentu informačnej bezpečno
 - **99 kartičiek** s opakovaním podľa odpovedí. Slabšie otázky sa vracajú skôr; známe postupne po 1, 3, 7 a 14 dňoch.
 - **66 tréningových testových otázok**, premiešané možnosti a vysvetlenia správnych odpovedí.
 - **348 pôvodných snímok a strán** ako obrázky, s pôvodným textom a dostupnými poznámkami prezentujúceho.
-- **Všetkých 7 originálnych súborov** na stiahnutie.
 - Vyhľadávanie v lekciách a pôvodných textoch aj bez diakritiky.
 - Interaktívnu kvalitatívnu maticu, semikvantitatívne hodnotenie rizika a výpočty ALE a ROSI.
 - Ukladanie prečítaných lekcií, výsledkov, termínov opakovania a vlastných poznámok.
@@ -27,7 +26,7 @@ Online verzia sa publikuje cez GitHub Pages z vetvy `main`, z koreňa repozitár
 2. Rozbaľ celý priečinok.
 3. Otvor **index.html** v prehliadači.
 
-Súbory musia zostať spolu. Skripty, písmo, obrázky a originály sú lokálne, preto stránka nepotrebuje internet na čítanie a precvičovanie stiahnutého obsahu.
+Súbory musia zostať spolu. Skripty, písmo a náhľady sú lokálne, preto stránka nepotrebuje internet na čítanie a precvičovanie stiahnutého obsahu.
 
 Pri vývoji môžeš použiť jednoduchý lokálny server:
 
@@ -67,7 +66,7 @@ Spracované materiály:
 - Bezpečnosť IS II — Marek Zeman, 49 snímok.
 - ICT Risk Management — Jozef Úroda, materiál označený 19. 11. 2025, 50 strán.
 
-Originálne PPTX/PDF sú nezmenené. Náhľady prezentácií sú prevedené do WebP; pri rozdieloch vo formátovaní je rozhodujúci originál. Právne znenia, termíny, historické štatistiky a názvy produktov zachytávajú dodané materiály. Rozdiely v označení vlastníkov a rizikových škálach sú vysvetlené v príslušných lekciách.
+Originálne PPTX/PDF súbory sa v repozitári ani na stránke nezverejňujú a nie sú dostupné na stiahnutie. Lokálne podklady zostávajú zachované. Náhľady snímok sú prevedené do WebP. Právne znenia, termíny, historické štatistiky a názvy produktov zachytávajú dodané materiály. Rozdiely v označení vlastníkov a rizikových škálach sú vysvetlené v príslušných lekciách.
 
 ## Súbory a úpravy
 
@@ -77,7 +76,6 @@ styles.css       Vzhľad a responzívne rozloženie
 app.js           Navigácia, učenie, testy, výpočty a ukladanie
 data.js          Lekcie, otázky, kartičky a zdrojové texty
 slides/          Náhľady všetkých snímok a strán
-originals/       Pôvodných 7 súborov
 fonts/           Lokálne písmo DM Sans a jeho licencia
 icon.svg         Ikona stránky
 AKO-ZACAT.txt    Krátky návod k offline verzii

@@ -6,3 +6,7 @@ node_modules/
 .openai/
 .impeccable/
 studovna-postup-*.json
+originals/
+*.ppt
+*.pptx
+*.pdf
