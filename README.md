@@ -2,6 +2,8 @@
 
 Jednoduchá stránka v slovenčine na učenie manažmentu informačnej bezpečnosti. Prepája dodané prednášky do vysvetlených lekcií a zachováva celý pôvodný obsah.
 
+**Online stránka:** [martinstav.github.io/studovna-informacnej-bezpecnosti](https://martinstav.github.io/studovna-informacnej-bezpecnosti/)
+
 ## Čo obsahuje
 
 - **33 lekcií** s vysvetleniami, príkladmi, otázkami na vybavenie z pamäti a odkazmi na konkrétne snímky.
@@ -18,6 +20,8 @@ Jednoduchá stránka v slovenčine na učenie manažmentu informačnej bezpečno
 ## Otvorenie stránky
 
 Stránka nepotrebuje inštaláciu balíkov, zostavenie ani backend.
+
+Online verzia sa publikuje cez GitHub Pages z vetvy `main`, z koreňa repozitára. Súbor `.nojekyll` zabezpečuje priame publikovanie statických súborov.
 
 1. Stiahni repozitár cez **Code → Download ZIP** alebo ho naklonuj.
 2. Rozbaľ celý priečinok.
