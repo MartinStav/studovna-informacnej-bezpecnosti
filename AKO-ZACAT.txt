@@ -9,12 +9,12 @@ Offline verzia
 33 vysvetlených lekcií s príkladmi a odkazmi na zdroje.
 99 kartičiek s opakovaním podľa toho, čo si vieš vybaviť.
 66 tréningových otázok s vysvetlením správnych odpovedí.
-Všetkých 348 pôvodných snímok a strán, ich texty a dostupné poznámky.
+Prehľad názvov siedmich zdrojov a odkazy na čísla snímok vo vlastných podkladoch.
 Pomôcky pre maticu rizík, ALE a ROSI.
 Vlastné poznámky, uložený postup a export/import zálohy.
 
 Ako sa učiť
-Prečítaj výklad a príklad. Skontroluj pôvodné snímky k lekcii.
+Prečítaj výklad a príklad. Podrobnosti si over vo vlastných podkladoch.
 Skús otázky vysvetliť nahlas bez otvorenej odpovede.
 Vyrieš test a oprav chyby. Zopakuj kartičky s odstupom.
 Označenie prečítanej lekcie neznamená automaticky zvládnuté učivo.
@@ -26,4 +26,4 @@ Online a offline verzia majú oddelené úložisko; export/import ich prenesie.
 
 Obsah vychádza z dodaných prednášok z rokov 2025 a 2026. Právne údaje,
 termíny a štatistiky sú označené podľa materiálov. Otázky sú tréningové,
-nie potvrdené otázky zo skúšky. Pôvodné PPTX/PDF súbory nie sú súčasťou publikovanej stránky.
+nie potvrdené otázky zo skúšky. Pôvodné PPTX/PDF, celé snímky a ich úplné textové prepisy nie sú súčasťou publikovanej stránky.

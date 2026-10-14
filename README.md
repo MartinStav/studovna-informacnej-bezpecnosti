@@ -1,6 +1,6 @@
 # Študovňa informačnej bezpečnosti
 
-Jednoduchá stránka v slovenčine na učenie manažmentu informačnej bezpečnosti. Prepája dodané prednášky do vysvetlených lekcií a zachováva celý pôvodný obsah.
+Jednoduchá stránka v slovenčine na učenie manažmentu informačnej bezpečnosti. Prepája dodané prednášky do vysvetlených lekcií a pokrýva témy pôvodných podkladov bez zverejňovania celých prezentácií.
 
 **Online stránka:** [martinstav.github.io/studovna-informacnej-bezpecnosti](https://martinstav.github.io/studovna-informacnej-bezpecnosti/)
 
@@ -9,8 +9,8 @@ Jednoduchá stránka v slovenčine na učenie manažmentu informačnej bezpečno
 - **33 lekcií** s vysvetleniami, príkladmi, otázkami na vybavenie z pamäti a odkazmi na konkrétne snímky.
 - **99 kartičiek** s opakovaním podľa odpovedí. Slabšie otázky sa vracajú skôr; známe postupne po 1, 3, 7 a 14 dňoch.
 - **66 tréningových testových otázok**, premiešané možnosti a vysvetlenia správnych odpovedí.
-- **348 pôvodných snímok a strán** ako obrázky, s pôvodným textom a dostupnými poznámkami prezentujúceho.
-- Vyhľadávanie v lekciách a pôvodných textoch aj bez diakritiky.
+- **Prehľad 7 zdrojov** s názvami a číslami príslušných snímok pri lekciách.
+- Vyhľadávanie v lekciách, príkladoch a otázkach aj bez diakritiky.
 - Interaktívnu kvalitatívnu maticu, semikvantitatívne hodnotenie rizika a výpočty ALE a ROSI.
 - Ukladanie prečítaných lekcií, výsledkov, termínov opakovania a vlastných poznámok.
 - Export a import postupu do JSON zálohy.
@@ -26,7 +26,7 @@ Online verzia sa publikuje cez GitHub Pages z vetvy `main`, z koreňa repozitár
 2. Rozbaľ celý priečinok.
 3. Otvor **index.html** v prehliadači.
 
-Súbory musia zostať spolu. Skripty, písmo a náhľady sú lokálne, preto stránka nepotrebuje internet na čítanie a precvičovanie stiahnutého obsahu.
+Súbory musia zostať spolu. Skripty, písmo a spracované učivo sú lokálne, preto stránka nepotrebuje internet na čítanie a precvičovanie stiahnutého obsahu.
 
 Pri vývoji môžeš použiť jednoduchý lokálny server:
 
@@ -39,7 +39,7 @@ Potom otvor [http://localhost:8000](http://localhost:8000).
 ## Odporúčaný spôsob učenia
 
 1. Prečítaj vysvetlenie a praktický príklad.
-2. Prejdi pôvodné snímky k téme, najmä diagramy a podrobné prehľady.
+2. Podľa odkazu na zdroj si prípadné podrobnosti over vo vlastných študijných podkladoch.
 3. Skús otázky vysvetliť nahlas bez otvorenej odpovede.
 4. Vyrieš test, prečítaj vysvetlenia chýb a vráť sa k príslušnej lekcii.
 5. Opakuj kartičky s odstupom a spoj pojmy s vlastným príkladom.
@@ -66,7 +66,7 @@ Spracované materiály:
 - Bezpečnosť IS II — Marek Zeman, 49 snímok.
 - ICT Risk Management — Jozef Úroda, materiál označený 19. 11. 2025, 50 strán.
 
-Originálne PPTX/PDF súbory sa v repozitári ani na stránke nezverejňujú a nie sú dostupné na stiahnutie. Lokálne podklady zostávajú zachované. Náhľady snímok sú prevedené do WebP. Právne znenia, termíny, historické štatistiky a názvy produktov zachytávajú dodané materiály. Rozdiely v označení vlastníkov a rizikových škálach sú vysvetlené v príslušných lekciách.
+Originálne PPTX/PDF, obrázky celých snímok ani ich úplné textové prepisy sa v repozitári alebo na stránke nezverejňujú. Lokálne podklady zostávajú zachované. Samostatná fotografia alebo ilustrácia použitá vo vysvetlení učiva môže zostať; celé snímky neslúžia ako náhrada prezentácie. Právne znenia, termíny, historické štatistiky a názvy produktov zachytávajú dodané materiály. Rozdiely v označení vlastníkov a rizikových škálach sú vysvetlené v príslušných lekciách.
 
 ## Súbory a úpravy
 
@@ -74,8 +74,7 @@ Originálne PPTX/PDF súbory sa v repozitári ani na stránke nezverejňujú a n
 index.html       Základ stránky
 styles.css       Vzhľad a responzívne rozloženie
 app.js           Navigácia, učenie, testy, výpočty a ukladanie
-data.js          Lekcie, otázky, kartičky a zdrojové texty
-slides/          Náhľady všetkých snímok a strán
+data.js          Lekcie, otázky, kartičky a bibliografia
 fonts/           Lokálne písmo DM Sans a jeho licencia
 icon.svg         Ikona stránky
 AKO-ZACAT.txt    Krátky návod k offline verzii
