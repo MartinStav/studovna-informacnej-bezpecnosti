@@ -1,0 +1,30 @@
+ŠTUDOVŇA INFORMAČNEJ BEZPEČNOSTI
+
+Offline verzia
+1. Rozbaľ celý ZIP do jedného priečinka.
+2. Otvor index.html v prehliadači. Neotváraj ho priamo v nerozbalenom ZIPe.
+3. Začni prvou lekciou alebo vyber tému v navigácii.
+
+Čo tu nájdeš
+33 vysvetlených lekcií s príkladmi a odkazmi na zdroje.
+99 kartičiek s opakovaním podľa toho, čo si vieš vybaviť.
+66 tréningových otázok s vysvetlením správnych odpovedí.
+Všetkých 348 pôvodných snímok a strán, ich texty a dostupné poznámky.
+Všetkých 7 originálnych súborov na stiahnutie.
+Pomôcky pre maticu rizík, ALE a ROSI.
+Vlastné poznámky, uložený postup a export/import zálohy.
+
+Ako sa učiť
+Prečítaj výklad a príklad. Skontroluj pôvodné snímky k lekcii.
+Skús otázky vysvetliť nahlas bez otvorenej odpovede.
+Vyrieš test a oprav chyby. Zopakuj kartičky s odstupom.
+Označenie prečítanej lekcie neznamená automaticky zvládnuté učivo.
+
+Uloženie postupu
+Postup a poznámky zostávajú v používanom prehliadači. Pri vymazaní jeho
+údajov sa môžu stratiť. V prehľade postupu si preto priebežne urob export.
+Online a offline verzia majú oddelené úložisko; export/import ich prenesie.
+
+Obsah vychádza z dodaných prednášok z rokov 2025 a 2026. Právne údaje,
+termíny a štatistiky sú označené podľa materiálov. Otázky sú tréningové,
+nie potvrdené otázky zo skúšky. Pôvodné súbory zostávajú nezmenené.
