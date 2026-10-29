@@ -10,6 +10,6 @@ const plans=JSON.parse(fs.readFileSync('reels/storyboards.json','utf8'));
 const reels=scope.window.REELS_DATA.reels.filter(r=>['learn','example'].includes(r.type));
 fs.mkdirSync('reels/films',{recursive:true});
 for(const r of reels){const beats=plans[r.id];assert(beats?.length,`Missing storyboard: ${r.id}`);assert.equal(beats[0].start,0);assert.equal(beats.at(-1).end,r.duration);
- for(const reduced of [false,true]){const html=scope.window.ReelFilm.html(r,beats,{runtime:'../vendor/hyperframe.runtime.js',gsap:'../vendor/gsap.min.js',font:'../../fonts/DM-Sans.ttf',reduced});fs.writeFileSync(`reels/films/${r.id}${reduced?'.reduced':''}.html`,html);}
+ for(const reduced of [false,true]){const html=scope.window.ReelFilm.html(r,beats,{runtime:'../vendor/hyperframe.runtime.js?v=cinema-3',gsap:'../vendor/gsap.min.js',font:'../../fonts/DM-Sans.ttf',reduced});fs.writeFileSync(`reels/films/${r.id}${reduced?'.reduced':''}.html`,html);}
 }
 console.log(`Built ${reels.length} complete timelines and their reduced-motion variants.`);
