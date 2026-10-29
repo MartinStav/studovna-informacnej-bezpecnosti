@@ -1,0 +1,10 @@
+import vm from 'node:vm';import fs from 'node:fs';import assert from 'node:assert/strict';
+const s={window:{}};vm.runInNewContext(fs.readFileSync('reels/discovery.js','utf8'),s);const {pick,weight}=s.window.ReelDiscovery;
+const pool=[{id:'new'},{id:'repeated'},{id:'recent'}];
+assert.equal(pick([],{}),null);assert.equal(pick([{id:'only'}],{recent:['only']}).id,'only');
+assert(weight(8)<weight(2)&&weight(2)<weight(0));
+let seed=74192;const random=()=>{seed=(1664525*seed+1013904223)>>>0;return seed/4294967296;};
+const counts={new:0,repeated:0,recent:0};for(let i=0;i<20000;i++)counts[pick(pool,{views:{repeated:8},recent:['recent']},random).id]++;
+assert.equal(counts.recent,0);assert(counts.new>counts.repeated*15);assert(counts.repeated>0);
+assert(pool.some(r=>r.id===pick(pool,{recent:pool.map(r=>r.id)},random).id));
+console.log('PASS: weighted draws favor unseen items; repeats remain possible; recent items excluded; empty/tiny pools safe.',counts);

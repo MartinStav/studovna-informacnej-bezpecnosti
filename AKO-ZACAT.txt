@@ -7,6 +7,7 @@ Offline verzia
 
 Čo tu nájdeš
 33 vysvetlených lekcií s príkladmi a odkazmi na zdroje.
+Reels: 302 dielov s hlasom, hudbou, animovaným výkladom a otázkami.
 99 kartičiek s opakovaním podľa toho, čo si vieš vybaviť.
 66 tréningových otázok s vysvetlením správnych odpovedí.
 Prehľad názvov siedmich zdrojov a odkazy na čísla snímok vo vlastných podkladoch.
@@ -27,3 +28,13 @@ Online a offline verzia majú oddelené úložisko; export/import ich prenesie.
 Obsah vychádza z dodaných prednášok z rokov 2025 a 2026. Právne údaje,
 termíny a štatistiky sú označené podľa materiálov. Otázky sú tréningové,
 nie potvrdené otázky zo skúšky. Pôvodné PPTX/PDF, celé snímky a ich úplné textové prepisy nie sú súčasťou publikovanej stránky.
+
+Reels
+Online otvor položku Reels v navigácii. Na telefóne potiahni nahor;
+na počítači je výklad vľavo a ovládanie vpravo. Hlas aj hudbu vypneš
+samostatne. Obsah umožňuje výber lekcie, otázok aj uložených dielov.
+Náhodný výber uprednostňuje menej videné diely.
+
+Všetky zvuky a scény sú lokálne. Ak prehliadač blokuje animované scény
+pri otvorení súboru index.html, spusti v rozbalenom priečinku lokálny
+server podľa README. Čítanie, kartičky a testy fungujú otvorením index.html.
