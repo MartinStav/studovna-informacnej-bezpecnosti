@@ -8,7 +8,7 @@ The final player uses137 finite HyperFrames0.8.214 HTML compositions under `../f
 
 ## Frozen narration
 
-467 pre-generated Slovak narration files use Microsoft `sk-SK-ViktoriaNeural`, rate+8%, obtained with edge-tts7.3.1. The user approved this voice. Following the requested pacing adjustment,137 explanation/example files contain additional silence at word-safe concept boundaries and a final viewing pause. No spoken words or speaker identity were changed; the original recordings remain in private local working storage. Word-boundary metadata drives phrase captions and visual beat timing. Narration covers the authored public lessons, examples, recall/quiz prompts and answers, with original short hooks. No credentials or provider access are needed by the public player.
+467 pre-generated Slovak narration files use Microsoft `sk-SK-ViktoriaNeural`, rate+8%, obtained with edge-tts7.3.1. The user approved this voice. Following the requested pacing adjustment,137 explanation/example files contain short conversational breaths at word-safe concept boundaries; existing natural sentence pauses are retained. No spoken words or speaker identity were changed; the original recordings remain in private local working storage. Word-boundary metadata drives phrase captions and visual beat timing. Narration covers the authored public lessons, examples, recall/quiz prompts and answers, with original short hooks. No credentials or provider access are needed by the public player.
 
 ## Original instrumental music
 
