@@ -51,7 +51,7 @@ V navigácii v časti **Precvičovanie a zdroje** vyber **Reels**, alebo otvor [
 
 Séria obsahuje **104 výkladov, 33 praktických príkladov, 99 otázok na vybavenie a 66 otázok s výberom odpovede**. Žiadny odsek existujúcej lekcie sa pri spracovaní nevynecháva. Dĺžka výkladu závisí od množstva učiva. Frázové titulky používajú časové značky vytvorené hlasovým poskytovateľom. Úvodné diely lekcií začínajú konkrétnou situáciou alebo otázkou.
 
-Hlas je vopred vytvorený slovenským neurálnym hlasom **Viktoria Neural od Microsoftu**. Pri prehrávaní nie je potrebný účet ani systémový hlas v zariadení. Schválené nahrávky zostávajú zachované.
+Hlas je vopred vytvorený slovenským neurálnym hlasom **Viktoria Neural od Microsoftu**. Pri prehrávaní nie je potrebný účet ani systémový hlas v zariadení. Hlas a všetky vyslovené slová zostávajú zachované. Medzi vysvetlenými scénami sú vložené krátke študijné pauzy; pri zložitejších grafoch sú dlhšie. Počas pauzy zostáva predchádzajúci model viditeľný. Titulky nepredbiehajú do ďalšej scény.
 
 **137 úplných animovaných výkladov a príkladov** obsahuje **796 vizuálnych zmien**, ukotvených k skutočným časovým značkám slov. Každá časť má vlastný scenár: menia sa údaje platby, uzatvárajú prístupy, skladajú vrstvy ochrany, obnovujú služby alebo počítajú riziká. Ide o konečné časové osi vytvorené pre **HyperFrames 0.8.214**, prehrávané lokálnym finálnym prehrávačom. Obraz sleduje čas nahrávky aj pri pauze a posunutí. Krátke opakujúce sa videoslučky sa nepoužívajú. Otázky majú vlastné interaktívne rozhranie. Editor sa nezobrazuje.
 
